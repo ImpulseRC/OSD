@@ -6,6 +6,8 @@
 
 ## Contents
 **[Home](https://github.com/ImpulseRC/OSD/wiki)** <br />
+<br />
+**[Getting Started](https://github.com/ImpulseRC/OSD/wiki/Getting-Started)** <br />
 
 Hardware <br />
 
