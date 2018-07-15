@@ -5,8 +5,8 @@
 <p align="center">Official documentation resource for the ImpulseOSD software and firmware platform.</p>
 
 ## Contents
+
 **[Home](https://github.com/ImpulseRC/OSD/wiki)** <br />
-<br />
 **[Getting Started](https://github.com/ImpulseRC/OSD/wiki/Getting-Started)** <br />
 
 Hardware <br />
@@ -16,12 +16,15 @@ Hardware <br />
 Firmware <br />
 
 * **[General Navigation](https://github.com/ImpulseRC/OSD/wiki/Firmware:-General-Settings)** <br />
+* **[Basic Setup](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Basic-setup)** <br />
+* **[OSD labels/items](https://github.com/ImpulseRC/OSD/wiki/Firmware:-OSD-labels-and-items)** <br />
 * **[Video Transmitter](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Video-Transmitter)**
 * **[Battery](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Battery)**
 * **[RSSI](https://github.com/ImpulseRC/OSD/wiki/Firmware:-RSSI)**
-* **[Camera control](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Camera)**
+* **[Camera control](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Camera-control)**
 * **[GPS](https://github.com/ImpulseRC/OSD/wiki/Firmware:-GPS)**
-* **[Advanced](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Advanced)**
+* **[LED strip](https://github.com/ImpulseRC/OSD/wiki/Firmware:-LED-strip)**
+* **[Advanced display](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Advanced-display)**
 
 Config Tool GUI
 
