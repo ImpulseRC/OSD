@@ -27,5 +27,4 @@ Config Tool GUI
 * **[Screen Designer](https://github.com/ImpulseRC/OSD/wiki/Config-Tool:-Screen-Designer)**
 * **[Fonts](https://github.com/ImpulseRC/OSD/wiki/Config-Tool:-Fonts)**
 * **[Flashing](https://github.com/ImpulseRC/OSD/wiki/Config-Tool:-Flashing)**
-* **[Backup/Restore](https://github.com/ImpulseRC/OSD/wiki/Config-Tool:-Backup-Restore)**
 * **[Activation](https://github.com/ImpulseRC/OSD/wiki/Config-Tool:-Activation)**
