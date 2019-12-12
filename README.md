@@ -8,8 +8,8 @@
 
 **[Home](https://github.com/ImpulseRC/OSD/wiki)** <br />
 **[Getting Started](https://github.com/ImpulseRC/OSD/wiki/Getting-Started)** <br />
-**[Betaflight+WolfPDB: Please read!!!](https://github.com/ImpulseRC/OSD/wiki/Betaflight-WolfPDB:-Please-read!!!)  <br />
-**[Rescue flash](https://github.com/ImpulseRC/OSD/wiki/Rescue-flash) <br />
+**[Betaflight+WolfPDB: Please read!!!](https://github.com/ImpulseRC/OSD/wiki/Betaflight-WolfPDB:-Please-read!!!)**  <br />
+**[Rescue flash](https://github.com/ImpulseRC/OSD/wiki/Rescue-flash)** <br />
 
 Hardware <br />
 
