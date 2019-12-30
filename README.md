@@ -2,7 +2,7 @@
 <img src="https://github.com/ImpulseRC/OSD/blob/master/images/ImpulseOSD.png">
 </p>
 
-<p align="center">Official documentation resource for the ImpulseOSD software and firmware platform.</p>
+<p align="center">Official documentation resource for the ImpulseOSD hardware and firmware platform.</p>
 
 ## Contents
 
@@ -11,13 +11,13 @@
 **[Betaflight+WolfPDB: Please read!!!](https://github.com/ImpulseRC/OSD/wiki/Betaflight-WolfPDB:-Please-read!!!)**  <br />
 **[Rescue flash](https://github.com/ImpulseRC/OSD/wiki/Rescue-flash)** <br />
 
-Hardware <br />
+# Hardware <br />
 
-* **[Reverb Wolf PDB](https://github.com/ImpulseRC/OSD/wiki/Hardware:-Reverb-Wolf-PDB)** <br />
+* **[Wolf PDB](https://github.com/ImpulseRC/OSD/wiki/Hardware:-Reverb-Wolf-PDB)** <br />
 * **[Apex OSD](https://github.com/ImpulseRC/OSD/wiki/Hardware:-Apex-OSD)** <br />
 
 
-Firmware <br />
+# Firmware <br />
 
 * **[General Navigation](https://github.com/ImpulseRC/OSD/wiki/Firmware:-General-Settings)** <br />
 * **[Basic Setup](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Basic-setup)** <br />
@@ -29,8 +29,9 @@ Firmware <br />
 * **[GPS + Magnetometer](https://github.com/ImpulseRC/OSD/wiki/Firmware:-GPS)**
 * **[LED strip](https://github.com/ImpulseRC/OSD/wiki/Firmware:-LED-strip)**
 * **[Advanced display](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Advanced-display)**
+* **[Graphical OSD options](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Graphical-OSD-options)**
 
-Config Tool GUI
+# Config Tool GUI
 
 * **[Install](https://github.com/ImpulseRC/OSD/wiki/Config-Tool:-Install)**
 * **[Screen Designer](https://github.com/ImpulseRC/OSD/wiki/Config-Tool:-Screen-Designer)**
