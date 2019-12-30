@@ -14,7 +14,7 @@
 Hardware <br />
 
 * **[Reverb Wolf PDB](https://github.com/ImpulseRC/OSD/wiki/Hardware:-Reverb-Wolf-PDB)** <br />
-* **[Apex ODS](https://github.com/ImpulseRC/OSD/wiki/Hardware:-Apex-OSD)** <br />
+* **[Apex OSD](https://github.com/ImpulseRC/OSD/wiki/Hardware:-Apex-OSD)** <br />
 
 
 Firmware <br />
