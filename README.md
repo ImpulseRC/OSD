@@ -8,10 +8,14 @@
 
 **[Home](https://github.com/ImpulseRC/OSD/wiki)** <br />
 **[Getting Started](https://github.com/ImpulseRC/OSD/wiki/Getting-Started)** <br />
+**[Betaflight+WolfPDB: Please read!!!](https://github.com/ImpulseRC/OSD/wiki/Betaflight-WolfPDB:-Please-read!!!)**  <br />
+**[Rescue flash](https://github.com/ImpulseRC/OSD/wiki/Rescue-flash)** <br />
 
 Hardware <br />
 
 * **[Reverb Wolf PDB](https://github.com/ImpulseRC/OSD/wiki/Hardware:-Reverb-Wolf-PDB)** <br />
+* **[Apex ODS](https://github.com/ImpulseRC/OSD/wiki/Hardware:-Apex-OSD)** <br />
+
 
 Firmware <br />
 
@@ -22,7 +26,7 @@ Firmware <br />
 * **[Battery](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Battery)**
 * **[RSSI](https://github.com/ImpulseRC/OSD/wiki/Firmware:-RSSI)**
 * **[Camera control](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Camera-control)**
-* **[GPS](https://github.com/ImpulseRC/OSD/wiki/Firmware:-GPS)**
+* **[GPS + Magnetometer](https://github.com/ImpulseRC/OSD/wiki/Firmware:-GPS)**
 * **[LED strip](https://github.com/ImpulseRC/OSD/wiki/Firmware:-LED-strip)**
 * **[Advanced display](https://github.com/ImpulseRC/OSD/wiki/Firmware:-Advanced-display)**
 
